@@ -4,7 +4,7 @@ I evaluate things whose quality is contested and hard to measure.
 
 That sentence is the short version. Teardowns evaluate hardware claims. IEM research evaluates under subjective noise. The war council is structured comparative judgment about decisions. The audit methodology evaluates evaluations. The one original empirical result I own, that the judge, not the artifact, was setting benchmark scores, is that same disposition applied to itself.
 
-Two years of hands-on LLM and agent work. Currently a KAIST GSAI applicant (portal closes 1 September 2026). FirstRand scholar, mechatronics and systems engineering, First Class.
+Two years of hands-on LLM and agent work. KAIST GSAI Spring 2027 applicant (portal closed 1 September 2026). FirstRand scholar, mechatronics and systems engineering, First Class.
 
 ## What is finished
 
