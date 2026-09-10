@@ -34,7 +34,7 @@ The sanity gate before anything else goes public: every README is checked agains
 
 ## Pinned repos
 
-- **BlockchainThesis**: solid masters project, needs a README
+- **BlockchainThesis**: Solidity medical-records smart contract, masters project
 - **deep-research-mcp-framework**: real, has description
 - **sovereign-testbench**: the research substrate for the memory-systems and deliberation work
 
