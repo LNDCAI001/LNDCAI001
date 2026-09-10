@@ -17,7 +17,7 @@ Two years of hands-on LLM and agent work. KAIST GSAI Spring 2027 applicant (port
 
 ## What is in progress
 
-- **GSAI Spring 2027 application**: the portal closes 1 September 2026 and is not yet submitted. This is the one deadline that matters.
+- **GSAI Spring 2027 application**: the portal closed 1 September 2026. This was the one deadline that mattered.
 - **Wiki handoff project**: the wiki is a personal knowledge base under active migration. Handoffs, concepts, docs, entities, flesh-out, and workshop directories are live. This repo is part of making that work public in a controlled way.
 - **Correction reply to Hyunwoo Kim (COCO Lab)**: drafted and approved, sitting in Gmail drafts. Corrects "no formal research background in NLP" to "no publications," lists three work strands, asks for nothing, links nothing.
 
